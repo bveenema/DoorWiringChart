@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Barrel_Jack_PJ037AH
+D DC Barrel Jack
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x02_REVERSE
+D Generic connector, single row, 01x02
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x05_ALT
+D Generic connector, single row, 01x05
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x14_15THRU28
+D Generic connector, single row, 01x14
+K connector
+F ~
+$ENDCMP
+#
+$CMP Jack-DC
+D DC Barrel Jack
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP SW_DPST
+D Double Pole Single Throw (DPST) Switch
+K switch dual double-pole single-throw OFF-ON
+$ENDCMP
+#
+$CMP SW_DPST_ALT
+D Double Pole Single Throw (DPST) Switch
+K switch dual double-pole single-throw OFF-ON
+$ENDCMP
+#
+#End Doc Library
